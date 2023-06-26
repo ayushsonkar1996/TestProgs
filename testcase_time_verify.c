@@ -4,6 +4,6 @@ int main()
 {
 
 	printf("Testcase for time\n");
-	sleep(10);
+	sleep(5);
 
 }
